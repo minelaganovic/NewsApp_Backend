@@ -2,6 +2,6 @@
 
 1) Create Project
 
-2) Install the packages - npm Install
+2) Install the packages - npm install
 
 3) Run - node server.js
