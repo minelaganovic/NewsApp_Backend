@@ -1,4 +1,4 @@
-# NewsApp_Bekend
+# NewsApp_Backend
 
 1) Create Project
 
